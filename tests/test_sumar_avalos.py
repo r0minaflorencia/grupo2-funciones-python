@@ -1,5 +1,5 @@
 # tests/test_sumar.py
-from funciones.sumar import sumar
+from funciones.sumar_avalos import sumar
 
 def test_sumar():
     assert sumar(3, 5) == 8
